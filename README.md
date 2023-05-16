@@ -26,12 +26,15 @@ There are challenges in this projects -
 
 ### Screenshot
 #### Desktop Preview
-![screencapture-file-C-Users-Manik-OneDrive-Desktop-Starting-Over-Again-profile-card-component-main-index-html-2023-05-16-21_42_17](https://github.com/ManikMaity/Profile-card-component/assets/110734724/25ac66e9-aa8d-4527-86f0-9d066f12f002)
+![screencapture-file-C-Users-Manik-OneDrive-Desktop-Starting-Over-Again-profile-card-component-main-index-html-2023-05-16-23_07_53](https://github.com/ManikMaity/Profile-card-component/assets/110734724/6afca3dc-e532-412e-89f8-dabfecd4fa17)
+
 
 
 
 #### Mobile Preview
-<img src="https://github.com/ManikMaity/Profile-card-component/assets/110734724/449484cf-8a09-4060-a629-946f746ab58d" width="200" />
+
+
+<img src="https://github.com/ManikMaity/Profile-card-component/assets/110734724/df4a4e37-b186-478e-a7b8-345aca6df167" width="200" />
 
 ### Links
 - Solution URL: [Frontend Mentor](https://www.frontendmentor.io/profile/ManikMaity)
