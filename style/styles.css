@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+
+/* root var diclair  */
+:root{
+    --dark-cyan:hsl(185, 75%, 39%);
+    --very-dark-blue: hsl(229, 23%, 23%);
+    --grayish-blue: hsl(227, 10%, 46%);
+    ---p-color: hsl(0, 0%, 59%);
+}
+
+/* comon style  */
+h3{
+    font-weight: 700;
+    font-size: 18px;
+    color: var(--very-dark-blue);
+}
+
+p{
+    color: var(---p-color);
+   
+    font-weight: 400;
+}
+
+/* body  */
+body{
+    display: grid;
+    place-content: center;
+    background-color: var(--dark-cyan);
+    /* position: relative; */
+    /* overflow-x: hidden; */
+  
+}
+
+ /* main container */
+.main-container{
+    
+    display: flex;
+    flex-direction: column;
+    gap: 150px;
+    align-items: center;
+    margin: 150px 10px 0px 10px;
+}
+
+
+/* card container  */
+.card-container{
+    display: flex;
+    flex-direction: column;
+    background-color: #fff;
+    border-radius: 10px;
+    max-width: 350px;
+    position: relative;
+}
+
+.card-main-img{
+    border-radius: 10px 10px 0 0;
+}
+
+/* card profile img  */
+.profile-img{
+    border-radius: 100px;
+    border: 5px solid #fff;
+    position: absolute;
+    top:25%;
+}
+
+
+/* card detaols  */
+.card-details{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* card title  */
+.card-title{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+}
+.address{
+    font-size: 14px;
+    margin-top: 10px;
+}
+
+/* hr sec  */
+hr{
+    border: 0.5px solid  hsla(0, 0%, 59%, 0.267);
+    width: 100%;
+    margin: 20px 0;
+}
+
+/* card buttom stat sec  */
+.card-stat{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    width: 80%;
+    margin-bottom: 20px;
+
+}
+.card-stat p{
+    font-size: 12px;
+    letter-spacing: 2px;
+}
+
