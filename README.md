@@ -3,7 +3,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 <hr>
 
-### [Live Website](https://manikmaity.github.io/3-column-preview-card-component/)
+### [Live Website](https://manikmaity.github.io/Profile-card-component/)
 ### [Linkedin](https://www.linkedin.com/in/manikmaity/)
 <hr>
 
