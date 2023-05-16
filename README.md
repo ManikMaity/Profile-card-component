@@ -50,5 +50,8 @@ There are challenges in this projects -
 ### What I learned
   1. I have learned lot about position and background-image but I could not make the bg pattern show. Even I watched videos of this challege but that did not work also i think its because of my laptop or my browser
 
+## Update
+Finally fixed the project by added background patterns. [razalalkhan](https://github.com/razalalkhan) helped me in this.
+
 
     
